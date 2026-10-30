@@ -1,10 +1,15 @@
 {
- "work": "斎宮女御集",
+ "work": "斎宮女御集（群書類従本）",
  "work_id": "gunsho10-saigu-nyogo",
  "repo": "kumoi-no-fumigura/saigu-nyogo",
  "yomi": "さいぐうのにょうごしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期",
+  "author": "徽子女王",
+  "desc": "村上天皇の女御で、もと斎宮であった徽子女王（斎宮女御）の家集。村上天皇との贈答を中心に、宮廷の人々とのやりとりを収める。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -1204,6 +1209,6 @@
   "poems": 102,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
