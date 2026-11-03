@@ -26,7 +26,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": null,
+ "translation": {
+  "count": 4,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "gunsho10-saigu-nyogo-0001",
@@ -1429,6 +1432,7 @@
   "poems": 102,
   "editions": 1,
   "updated": "2026-11-03",
-  "updated_at": "2026-11-03T08:55:47+09:00"
+  "updated_at": "2026-11-03T08:55:47+09:00",
+  "yaku": 4
  }
 }
